@@ -18,8 +18,8 @@
 .category-list,
 .topic-list,
 .latest-topic-list {
-  @include boxShadow;
-  background-color: lighten($secondary, 10%);
+  // @include boxShadow;
+  // background-color: lighten($secondary, 10%);
 }
 
 //underline navigation links
